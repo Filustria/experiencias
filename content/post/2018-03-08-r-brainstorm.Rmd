@@ -1,0 +1,19 @@
+---
+title: "brainstorm"
+author: "Adelson Guaraci Jantsch"
+date: "8 de março de 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Brainstorm de 07.03.2018
+
+### Trabalharemos com o objetivo de construir oito atividades acadêmicas voltadas para os nossos R2. As atividades dos R1 serão aproveitamento das atividades dos R2.  
+
+
+O que é raciocínio clínico. Modelos de Raciocínio Clínico. O que é MBE. Ferramentas de busca de informação. Nomograma de Fagam. Manejando a incerteza. Conceitos de Epidemiologia clínica (Medidas de frequência - prevalência, incidência, probabilidades. Epi clínica para diagnóstico - sensibilidade, espec, LR, Epi clínica para terapêutica - medidas de efeito - RR, RA, RRR, RAR, NNT). Erros e viéses de raciocínio. Avaliação crítica de estudos. Capacidade de discernir informações médicas (validade, magnitude, impacto). Saber avaliar estudos. Desfecho. Prognóstico. Rastreamento. Lista de problemas do paciente. Organização de dados para o raciocínio clínico. Interface do raciocínio clínico com a comunicação clínica
+Ergometria. O que o paciente pode ter e o que ele não deve ter
+Estratégias de raciocínio. Como ensinar raciocínio clínico no ambulatório. Como construir o conteúdo de forma a facilitar o raciocínio dentro de um livro ou artigo. Grau de recomendação e níveis de evidência. 
