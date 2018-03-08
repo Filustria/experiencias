@@ -1,37 +1,41 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
+title: "Programação do GT de Raciocínio Clínico e Medicina Baseada em Evidências"
+author: "Adelson Guaraci Jantsch"
+date: 2018-03-07
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
-# R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# GT - Raciocínio Clínico e MBE  
 
-You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+## Lista de temas a serem trabalhados:  
 
-# Including Plots
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+(@)  Raciocínio clínico, epidemiologia clínica. Principais equivocos ao redor desses conceitos. Etapas do raciocínio clínico. Apresentação do calendário
+
+(@)  Como utilizar a literatura, como utilizar ferramentas on-line, livros, sites...
+
+(@)  Quadros sindrômicos, como categorizar a queixa do meu paciente dentro de um quadro sindrômico pode me ajudar no meu raciocínio diagnóstico.
+
+(@)  Prevalência dos problemas, probabilidade pré-teste e o mistério da conduta expectante.
+
+(@)  Será que este teste diagnóstico pode me ajudar a saber o que está acontecendo com meu paciente?
+
+(@)  Árvores de decisão clínica, fluxogramas. O que fazer quando não há fluxograma?
+
+(@)  *Será que esta intervenção vai trazer algum benefício para o meu paciente?* 
+
++ Intervenções sobre desfechos dicotômicos
++ Intervenções sobre desfechos escalares
+
+(@)  Como estimar o prognóstico do meu paciente? Como essa variável entra na conta das intervenções a serem feitas com ele?
+
+(@)  Como avaliar custo-efetividade
+
+(@) Rastrear, uma boa ideia que perdeu a linha
+
+(@) Prevenir é sempre o melhor remédio?

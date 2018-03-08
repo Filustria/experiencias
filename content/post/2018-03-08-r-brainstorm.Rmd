@@ -1,13 +1,9 @@
 ---
-title: "brainstorm"
+title: "Brainstorm"
 author: "Adelson Guaraci Jantsch"
 date: "8 de março de 2018"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Brainstorm de 07.03.2018
 

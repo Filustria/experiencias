@@ -5,9 +5,45 @@
     <link>/</link>
     <language>en-us</language>
     <author></author>
-    <rights>(C) 2016</rights>
-    <updated>2016-12-30 21:49:57 -0700 -0700</updated>
+    <rights>(C) 2018</rights>
+    <updated>2018-03-07 00:00:00 &#43;0000 UTC</updated>
 
+    
+      
+        <item>
+          <title>Programação do GT de Raciocínio Clínico e Medicina Baseada em Evidências</title>
+          <link>/2018/03/07/programa%C3%A7%C3%A3o-do-gt-de-racioc%C3%ADnio-cl%C3%ADnico-e-medicina-baseada-em-evid%C3%AAncias/</link>
+          <pubDate>Wed, 07 Mar 2018 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>/2018/03/07/programa%C3%A7%C3%A3o-do-gt-de-racioc%C3%ADnio-cl%C3%ADnico-e-medicina-baseada-em-evid%C3%AAncias/</guid>
+          <description>&lt;div id=&#34;gt---raciocinio-clinico-e-mbe&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;GT - Raciocínio Clínico e MBE&lt;/h1&gt;
+&lt;div id=&#34;lista-de-temas-a-serem-trabalhados&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Lista de temas a serem trabalhados:&lt;/h2&gt;
+&lt;ol class=&#34;example&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Raciocínio clínico, epidemiologia clínica. Principais equivocos ao redor desses conceitos. Etapas do raciocínio clínico. Apresentação do calendário&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Como utilizar a literatura, como utilizar ferramentas on-line, livros, sites…&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Quadros sindrômicos, como categorizar a queixa do meu paciente dentro de um quadro sindrômico pode me ajudar no meu raciocínio diagnóstico.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Prevalência dos problemas, probabilidade pré-teste e o mistério da conduta expectante.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Será que este teste diagnóstico pode me ajudar a saber o que está acontecendo com meu paciente?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Árvores de decisão clínica, fluxogramas. O que fazer quando não há fluxograma?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Será que esta intervenção vai trazer algum benefício para o meu paciente?&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenções sobre desfechos dicotômicos&lt;/li&gt;
+&lt;li&gt;Intervenções sobre desfechos escalares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;8&#34; class=&#34;example&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Como estimar o prognóstico do meu paciente? Como essa variável entra na conta das intervenções a serem feitas com ele?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Como avaliar custo-efetividade&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Rastrear, uma boa ideia que perdeu a linha&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Prevenir é sempre o melhor remédio?&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        </item>
+      
     
       
         <item>
@@ -54,56 +90,6 @@
     
       
         <item>
-          <title>Hello R Markdown</title>
-          <link>/2015/07/23/hello-r-markdown/</link>
-          <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-          <author></author>
-          <guid>/2015/07/23/hello-r-markdown/</guid>
-          <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
           <title>Lorem Ipsum</title>
           <link>/2015/01/01/lorem-ipsum/</link>
           <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
@@ -116,7 +102,7 @@ Figure 1: A fancy pie chart.
     
       
         <item>
-          <title>brainstorm</title>
+          <title>Brainstorm</title>
           <link>/1/01/01/brainstorm/</link>
           <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
           <author></author>
